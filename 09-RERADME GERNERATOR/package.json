@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator-by-ralph",
+  "version": "1.0",
+  "description": "a readme generator that uses nodejs and inquirer to dynamically build a readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphmenard0"
+  },
+  "author": "Alex Widener",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphmenard0"
+  },
+  "homepage": "https://github.com/ralphmenard0",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
